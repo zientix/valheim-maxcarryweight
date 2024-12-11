@@ -1,0 +1,10 @@
+{
+    "name": "PlecakDlaCweli",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/zientix/valheim-maxcarryweight",
+    "description": "You want 9999 slots in your inventory? Here it is! This mod does nothing else but patches your max carry weight.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202",
+        "ValheimModding-Jotunn-2.22.0"
+    ]
+}
